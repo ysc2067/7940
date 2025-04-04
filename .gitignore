@@ -1,0 +1,12 @@
+config.ini
+
+__pycache__/
+*.pyc
+
+*.log
+*.tmp
+
+.vscode/
+
+.DS_Store
+Thumbs.db
